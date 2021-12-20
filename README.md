@@ -18,6 +18,6 @@ explain the setup process: https://dev.mysql.com/doc/mysql-getting-started/en/
 python3 mysql_sse.py
 ```
 5. The program will ask for your MySQL credentials in order to connect to the database
-6. On the first run, enter command <CT> in the UI to create the MySQL tables
-7. Use <IF> to input files
-8. Use <S> to search for certain keywords
+6. On the first run, enter command "CT" in the UI to create the MySQL tables
+7. Use "IF" to input files
+8. Use "S" to search for certain keywords
